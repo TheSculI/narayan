@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\naraian\naraian\bin\Debug\naraian.exe.config
+C:\Users\User\source\repos\naraian\naraian\bin\Debug\naraian.exe
+C:\Users\User\source\repos\naraian\naraian\bin\Debug\naraian.pdb
+C:\Users\User\source\repos\naraian\naraian\obj\Debug\naraian.csprojAssemblyReference.cache
+C:\Users\User\source\repos\naraian\naraian\obj\Debug\naraian.Form1.resources
+C:\Users\User\source\repos\naraian\naraian\obj\Debug\naraian.Properties.Resources.resources
+C:\Users\User\source\repos\naraian\naraian\obj\Debug\naraian.csproj.GenerateResource.cache
+C:\Users\User\source\repos\naraian\naraian\obj\Debug\naraian.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\naraian\naraian\obj\Debug\naraian.exe
+C:\Users\User\source\repos\naraian\naraian\obj\Debug\naraian.pdb
